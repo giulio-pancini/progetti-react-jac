@@ -1,0 +1,107 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "firstName": "Mario 1",
+      "lastName": "Rossi",
+      "email": "test@test.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Mario",
+      "lastName": "Bianchi",
+      "email": "mario.bianchi@test.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Elena",
+      "lastName": "Santi",
+      "email": "elena.santi@test.com"
+    },
+    {
+      "firstName": "marco",
+      "lastName": "rossi",
+      "email": "test@test.com",
+      "id": 5
+    },
+    {
+      "firstName": "marco4",
+      "lastName": "rossi",
+      "email": "test@test.com",
+      "id": 6
+    },
+    {
+      "firstName": "alessandro",
+      "lastName": "rossi",
+      "email": "ale@rossi.com",
+      "id": 7
+    },
+    {
+      "firstName": "enrico",
+      "lastName": "pippo",
+      "email": "email@email.com",
+      "id": 8
+    },
+    {
+      "firstName": "giorgio",
+      "lastName": "rossi",
+      "email": "giorgio.rossi@gmail.com",
+      "id": 9
+    },
+    {
+      "firstName": "giorgio 1",
+      "lastName": "rossi",
+      "email": "giorgio.rossi@gmail.com",
+      "id": 10
+    },
+    {
+      "firstName": "giorgio",
+      "lastName": "bianchi",
+      "email": "giorgio@gmail.com",
+      "id": 11
+    },
+    {
+      "firstName": "Mario",
+      "lastName": "Rossi 3",
+      "email": "test@test.com",
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Sparrow",
+      "age": 406,
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "firstName": "Luca",
+      "lastName": "Bianchi",
+      "age": 30,
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "firstName": "Marco",
+      "lastName": "Rossi",
+      "age": 20,
+      "gender": "male"
+    },
+    {
+      "firstName": "luca",
+      "lastName": "bianchi",
+      "age": 13,
+      "gender": "m",
+      "id": 4
+    },
+    {
+      "firstName": "Giorgio",
+      "lastName": "Rossi",
+      "age": 12,
+      "gender": "m",
+      "id": 5
+    }
+  ]
+}
