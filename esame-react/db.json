@@ -1,0 +1,48 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "fullName": "Alessandro Manzoni",
+      "vatNumber": "IT12345678901",
+      "city": "Firenze"
+    },
+    {
+      "id": 2,
+      "fullName": "Giovanni Pascoli",
+      "vatNumber": "IT83593754026",
+      "city": "Rome"
+    },
+    {
+      "id": 3,
+      "fullName": "Ugo Foscolo",
+      "vatNumber": "IT28649852037",
+      "city": "Bergamo"
+    },
+    {
+      "id": 4,
+      "fullName": "Giacomo Leopardi",
+      "vatNumber": "IT28649852037",
+      "city": "Cagliari"
+    }
+  ],
+  "stocks": [
+    {
+      "id": 1,
+      "description": "Tesla, Inc.",
+      "code": 3672,
+      "cost": 171.68
+    },
+    {
+      "id": 2,
+      "description": "Advanced Micro Devices, Inc.",
+      "code": 9263,
+      "cost": 95.04
+    },
+    {
+      "id": 3,
+      "description": "Palantir Technologies, Inc.",
+      "code": 5672,
+      "cost": 7.74
+    }
+  ]
+}
